@@ -25,6 +25,7 @@ func main() {
 	fmt.Println("Array before sotring", a)
 
 	a = BubbleSort(a)
+	a = BubbleSort(a)
 
 	fmt.Println("Array after sotring", a)
 }
